@@ -1,4 +1,5 @@
 **/*.cpython-37..pyc
-.ipynb_checkpoints/
+.ipynb_checkpoints
+.ipynb_checkpoints/*
 __pycache__/
 model_package_src/__pycache__/inference_specification.cpython-37.pyc

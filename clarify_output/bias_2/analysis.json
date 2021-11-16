@@ -10,7 +10,7 @@
                         {
                             "name": "AD",
                             "description": "Accuracy Difference (AD)",
-                            "value": -0.028612303290414864
+                            "value": -0.029174147217235213
                         },
                         {
                             "name": "CDDPL",
@@ -21,32 +21,32 @@
                         {
                             "name": "DAR",
                             "description": "Difference in Acceptance Rates (DAR)",
-                            "value": -0.028612303290414864
+                            "value": -0.02921447363539431
                         },
                         {
                             "name": "DCA",
                             "description": "Difference in Conditional Acceptance (DCA)",
-                            "value": -0.028612303290414864
+                            "value": -0.02921447363539431
                         },
                         {
                             "name": "DCR",
                             "description": "Difference in Conditional Rejection (DCR)",
-                            "value": 0
+                            "value": "Infinity"
                         },
                         {
                             "name": "DI",
                             "description": "Disparate Impact (DI)",
-                            "value": 1.0
+                            "value": 1.0008984725965857
                         },
                         {
                             "name": "DPPL",
                             "description": "Difference in Positive Proportions in Predicted Labels (DPPL)",
-                            "value": 0.0
+                            "value": -0.0008976660682226134
                         },
                         {
                             "name": "DRR",
                             "description": "Difference in Rejection Rates (DRR)",
-                            "value": 0.0
+                            "value": -1.0
                         },
                         {
                             "name": "FT",
@@ -90,32 +90,32 @@
                         {
                             "name": "DPL",
                             "description": "Difference in Positive Proportions in Labels (DPL)",
-                            "value": -0.028612303290414864
+                            "value": -0.030071813285457827
                         },
                         {
                             "name": "JS",
                             "description": "Jensen-Shannon Divergence (JS)",
-                            "value": 0.005904176793571516
+                            "value": 0.003955989078180943
                         },
                         {
                             "name": "KL",
                             "description": "Kullback-Liebler Divergence (KL)",
-                            "value": 0.034519097247946016
+                            "value": 0.01936076919751799
                         },
                         {
                             "name": "KS",
                             "description": "Kolmogorov-Smirnov Distance (KS)",
-                            "value": 0.028612303290414875
+                            "value": 0.030071813285457827
                         },
                         {
                             "name": "LP",
                             "description": "L-p Norm (LP)",
-                            "value": 0.040463907364037044
+                            "value": 0.04252796619344587
                         },
                         {
                             "name": "TVD",
                             "description": "Total Variation Distance (TVD)",
-                            "value": 0.02861230329041487
+                            "value": 0.03007181328545782
                         }
                     ]
                 }

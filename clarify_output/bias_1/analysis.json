@@ -10,7 +10,7 @@
                         {
                             "name": "AD",
                             "description": "Accuracy Difference (AD)",
-                            "value": -0.02151863839657031
+                            "value": -0.026593610562875125
                         },
                         {
                             "name": "CDDPL",
@@ -21,12 +21,12 @@
                         {
                             "name": "DAR",
                             "description": "Difference in Acceptance Rates (DAR)",
-                            "value": -0.02151863839657031
+                            "value": -0.026593610562875125
                         },
                         {
                             "name": "DCA",
                             "description": "Difference in Conditional Acceptance (DCA)",
-                            "value": -0.02151863839657031
+                            "value": -0.026593610562875125
                         },
                         {
                             "name": "DCR",
@@ -85,37 +85,37 @@
                         {
                             "name": "CI",
                             "description": "Class Imbalance (CI)",
-                            "value": 0.398
+                            "value": 0.114
                         },
                         {
                             "name": "DPL",
                             "description": "Difference in Positive Proportions in Labels (DPL)",
-                            "value": -0.02151863839657031
+                            "value": -0.026593610562875125
                         },
                         {
                             "name": "JS",
                             "description": "Jensen-Shannon Divergence (JS)",
-                            "value": 0.0026501492057896215
+                            "value": 0.002894377688012573
                         },
                         {
                             "name": "KL",
                             "description": "Kullback-Liebler Divergence (KL)",
-                            "value": 0.012806296202259423
+                            "value": 0.013582121448598938
                         },
                         {
                             "name": "KS",
                             "description": "Kolmogorov-Smirnov Distance (KS)",
-                            "value": 0.021518638396570325
+                            "value": 0.026593610562875125
                         },
                         {
                             "name": "LP",
                             "description": "L-p Norm (LP)",
-                            "value": 0.030431950264232174
+                            "value": 0.0376090447304864
                         },
                         {
                             "name": "TVD",
                             "description": "Total Variation Distance (TVD)",
-                            "value": 0.021518638396570318
+                            "value": 0.026593610562875125
                         }
                     ]
                 }
